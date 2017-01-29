@@ -15,19 +15,19 @@ For Class
 </h3>
 </ul>
 <hr>
-<h3><ins> <id=“movies”>Issa Movie #Thraxxx </ins></h3>
+<h3><ins><id=“movies”>Issa Movie #Thraxxx </ins></h3>
 <p>Movies are powerful. They take you on a journey through alternative realities. You laugh. You cry. You reflect. They engage all of your senses: the dialogue engages the mind, the music creates mood and massages your ears, the direction tells the story through scenes. If you’re fully engaged, being moved is the least you can expect. So here are my favorite films so far</p>
 <ul>
 <li><a href=“http://www.imdb.com/title/tt0253474/?ref_=nv_sr_1”>The Pianist</a></li>
 <li><a href=“http://www.imdb.com/title/tt0118799/?ref_=nv_sr_1”> La Vita E Bella<i>(Life Is Beautiful)</i></a></li>
-<li> <a href=“http://www.imdb.com/name/nm0634240/?ref_=nv_sr_1”><strong>EVERYTHING by Christopher Nolan!</strong></a></li>
+<li><a href=“http://www.imdb.com/name/nm0634240/?ref_=nv_sr_1”><strong>EVERYTHING by Christopher Nolan!</strong></a></li>
 </ul>
 <h3><ins><id=”food”>32 Flavors of This…</ins></h3>
 <p> Too often do we take food for granted. Joseph B. Wirthlin says <q>The more often we see things around us - -even the beautiful and wonderful things — the more they become invisible to us. That is why we often take for granted the beauty of this world: the flowers, the trees, the birds, the could — even those we love. Because we see things o often, we see them less and less.</q> And I believe the same applies to food, for those of us privileged enough to have regular access to food, we take it for granted. But after traveling home to Senegal, and seeing what it looks like to live without the luxuries of eocnomic privilege, I stopped taking things for granted. Before I was picky and entitled, now I don’t even care what food tastes like, I eat for sustenance. But nonetheless, my favorte dishes are traditional senegalese, a few are captured below.</p>
 <ul>
-<li> <a href=“https://photos.travelblog.org/Photos/5930/30540/f/152288-Yassa-Ganar-0.jpg”>Yassa Ganaar</a></li>
-<li> <a href=“https://s-media-cache-ak0.pinimg.com/564x/6f/78/84/6f7884787f8c6d16898a65ec29d354e0.jpg”> Ceebu Gen</a></li>
-<li> <a href=“http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2010/7/21/1/FNM_090110-Recipe-Winner-002_s4x3.jpg.rend.sni12col.landscape.jpeg”> Beignet</a></li>
+<li><a href=“https://photos.travelblog.org/Photos/5930/30540/f/152288-Yassa-Ganar-0.jpg”>Yassa Ganaar</a></li>
+<li><a href=“https://s-media-cache-ak0.pinimg.com/564x/6f/78/84/6f7884787f8c6d16898a65ec29d354e0.jpg”> Ceebu Gen</a></li>
+<li><a href=“http://foodnetwork.sndimg.com/content/dam/images/food/fullset/2010/7/21/1/FNM_090110-Recipe-Winner-002_s4x3.jpg.rend.sni12col.landscape.jpeg”>Beignet</a></li>
 </ul>
 <h3><ins><id=“shows”>Netflix & Chill</ins></h3>
 <p>I like to use TV as a means of short-form entertainment, and I typically gravitate towards light hearted shows. Mores specifically, dry humor. Check out my a few of my good ones the next time you’re browsing on Netflix.</p>
@@ -42,7 +42,7 @@ For Class
 <h3><ins><id=”music”>Vibes</ins></h3>
 <p>My favorite way to discover music is via SoundCloud. There I find new artists, music, and experiences that you can’t get through mainstream media. Below is my very favorite playlist.</p>
 <ul>
-<li><a href="https://soundcloud.com/malik-mbaye/sets/motivation">Motivational Compliations </a></li>
+<li><a href="https://soundcloud.com/malik-mbaye/sets/motivation">Motivational Compliations</a></li>
 </ul>
 </body>
 </html>
