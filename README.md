@@ -1,6 +1,11 @@
 # WEBAT1
 For Class
 <html>
+<head>
+<style>
+h3 {color: Blue;}
+</style>
+</head>
 <body>
 <title> Malik’s Munchies</title>
 <h1> French Toast That’ll Make You Boast</h1>
