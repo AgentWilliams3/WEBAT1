@@ -42,8 +42,7 @@ For Class
 </div>
 <hr>
 <div class =lead>
-<h3><a name="l">Leadership Experience</a></h3>
-<strong>Leadership Experience</strong><br/>
+<h3><a name="l">Leadership Experience</a></h3><br/>
 <strong>School of Student Council, </strong><i>Vice President</i>
 <ul>
 <li>Elected to represent the interests of 1,300+ students, and launch initiatives that benefit the community at large</li>
