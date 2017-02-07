@@ -7,7 +7,7 @@ For Class
 </head>
 <body>
 <center><strong>MALIK MBAYE </strong></center><br/>
-<p><a href= "mailto: mbayemalik@gmail.com"> Email Malik</a> | 4215 Quanders Promise Dr, Bowie, MD 20720 | 240-486-3494 | <a href= "Linkedin.com/in/MalikMbaye>LinkedIN</a></p>
+<p><a href= "mailto: mbayemalik@gmail.com"> Email Malik</a> | 4215 Quanders Promise Dr, Bowie, MD 20720 | 240-486-3494 | <a href= "Linkedin.com/in/MalikMbaye">LinkedIN</a></p>
 <div class=edu>
 <h4><a name="id">Education</a></h4>
 <strong>Howard University,</strong> Washington, DC <strong>Expected Graduation:</strong><i>May 2018</i><br/>
