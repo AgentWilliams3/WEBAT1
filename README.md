@@ -1,10 +1,10 @@
 <table>
 <th>
   <tr>
-    <td> Course Name</td>
-    <td> Course Number</td>
-    <td>Number of Credits</td>
-    <td>Professor</td>
+  <td><strong>Course Name</strong></td>
+  <td><strong>Course Number</strong></td>
+  <td><strong>Number of Credits</strong></td>
+  <td><strong>Professor</strong></td>
   </tr>
 </th>
   <tr>
