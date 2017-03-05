@@ -1,52 +1,37 @@
-<table>
-<th>
-  <tr>
-  <td><strong>Course Name</strong></td>
-  <td><strong>Course Number</strong></td>
-  <td><strong>Number of Credits</strong></td>
-  <td><strong>Professor</strong></td>
-  </tr>
-</th>
-  <tr>
-    <td>Managerial Economics</td>
-    <td>BECN 330</td>
-    <td>3</td>
-    <td>Lindsey</td>
-  </tr>
-  <tr>
-    <td>Wealth Management</td>
-    <td>FINA 321</td>
-    <td>3</td>
-    <td>Barbee</td>
-  </tr>
-  <tr>
-    <td>Intro to Data &amp; Network Communication</td>
-    <td>INFO 325</td>
-    <td>3</td>
-    <td>Agarwal</td>
-  </tr>
-  <tr>
-    <td>Prod &amp; Operations Management</td>
-    <td>INFO 335</td>
-    <td>3</td>
-    <td>Tidwell</td>
-  </tr>
-  <tr>
-    <td>Systems Analysis &amp; Design</td>
-    <td>INFO 370</td>
-    <td>3</td>
-    <td>Owunwanne</td>
-  </tr>
-  <tr>
-    <td>Human Computer Interaction</td>
-    <td>INFO 386</td>
-    <td>3</td>
-    <td>Morgan</td>
-  </tr>
-  <tr>
-    <td>Web Authoring Tools</td>
-    <td>INFO 387</td>
-    <td>3</td>
-    <td>Henley</td>
-  </tr>
-</table>
+<html>
+<head>
+    <title>For Hire</title>
+    </head>
+<body>
+    <h1>So You Think You Can Hire Me?</h1>
+    <p>If you are seeking my services as a consultant or advisor, please fill out the form below indicating certain information</p>
+    <form>
+    <label>Company Name:
+        <input type="text" name="company name"/>
+        </label>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+        <label>Enter Password:
+        <input type="password" name="pw"/>
+        </label>       
+        <br/>
+    <p>Select Position from Dropdown below</p>
+        <select name="Position">
+        <option value="pm">Project Manager</option>
+        <option value="LC">Lead Consultant</option>
+        <option value="sa">Strategic Advisor</option>
+        <option value="pc">Professional Coach</option>    
+        </select>
+    <p><label>Enter Location:
+        <input type="text" name="location"/>
+            </label></p>
+    <label># of Vacation Days
+            <input type="number" name="quantity" min="14" max"350"/> 
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <label>Salary Bid:
+        <input type="number" name="revenue" min="50000" max="100000000"/>
+        </label>    
+        </label>
+    </form>
+    <p><i>If you have any questions please feel free to contact me <a href="mailto: mbayemalik@gmail.com">via Email</a></i></p>
+    </body>
+</html>
